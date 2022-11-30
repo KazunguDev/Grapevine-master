@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707253409339",
+    "firebase_url": "https://travelify-599d4-default-rtdb.firebaseio.com",
+    "project_id": "travelify-599d4",
+    "storage_bucket": "travelify-599d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707253409339:android:cf42bbed43e0208339ae1e",
+        "android_client_info": {
+          "package_name": "com.example.grapevineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707253409339-2dd6pmrffr88ctmfgkjql2ud14f54a7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrWaQt4JT5vyzT_fEziTzRQ7VeLly0LJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707253409339-2dd6pmrffr88ctmfgkjql2ud14f54a7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "707253409339-8ft129nvs9gnuupb75v94e0qkrdgcbqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.grapevineapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
